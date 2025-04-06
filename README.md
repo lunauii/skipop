@@ -19,7 +19,7 @@ Then you can run it using `/path/to/skipop.sh [<num>]`
 
 **If running Xorg**: `xdotool`
 
-If you don't know what display server you have, `skipop.sh` will automatically tell you which one you need if you try running the script.
+If you don't know what display server you have and you're missing a dependency, `skipop.sh` will automatically tell you which dependency you need if you run the script.
 
 ## Future Plans
 * Option for any key, not just the right arrow
