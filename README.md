@@ -24,3 +24,4 @@ If you don't know what display server you have, `skipop.sh` will automatically t
 ## Future Plans
 * Option for any key, not just the right arrow
 * PKGBUILD for AUR
+* Miscellaneous optimizations to the script
